@@ -1,22 +1,31 @@
 # Projeto EcoCampus
 
 ## Participantes
-Leonardo Hiroshi Dondo de Freitas - RGM: 46610049 ; Rafael Marques de Oliveira - RGM: 47877081
+Leonardo Hiroshi Dondo de Freitas - RGM: 46610049 ;
+
+Rafael Marques de Oliveira - RGM: 47877081
 
 ## Sobre o Projeto 
 O EcoCampus é um programa desenvolvido em linguagem C para analisar o consumo de água em diferentes locais de um campus universitário. O sistema lê os dados de um arquivo, realiza cálculos e gera um relatório com os principais indicadores de consumo.
 
 ## Objetivos
 Calcular o consumo total e médio de água.
+
 Identificar o local com maior consumo.
+
 Contabilizar os locais que ultrapassaram o limite estabelecido.
+
 Exibir e salvar o relatório final.
 
 ## Tecnologias Utilizadas
 Linguagem C.
+
 Bibliotecas stdio.h e stdlib.h.
+
 Manipulação de arquivos.
+
 Estruturas condicionais e de repetição.
+
 Funções e variáveis.
 
 ## Funcionamento do Programa
